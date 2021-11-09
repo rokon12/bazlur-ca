@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `A N M Bazlur Rahman`,
+    title: `Java Thread Programming`,
     author: {
       name: `A N M Bazlur Rahman`,
-      summary: `Java enthusiastic | Book author | Mentor| Helping Java Developers to improve their coding & collaboration skills so that they can meet great people & collaborate.`,
+      summary: `| Java enthusiastic | Book author | Mentor| Helping Java Developers to improve their coding & collaboration skills so that they can meet great people & collaborate.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
