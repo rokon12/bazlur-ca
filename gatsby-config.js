@@ -3,7 +3,7 @@ module.exports = {
     title: `Java Thread Programming`,
     author: {
       name: `A N M Bazlur Rahman`,
-      summary: `| Java enthusiastic | Book author | Mentor| Helping Java Developers to improve their coding & collaboration skills so that they can meet great people & collaborate.`,
+      summary: `| Java enthusiastic | Book author | Mentor| Helping Java Developers to improve their coding & collaboration skills so that they can meet great people and collaborate.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -51,12 +51,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `G-0WN8V4Q3D3`,
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
