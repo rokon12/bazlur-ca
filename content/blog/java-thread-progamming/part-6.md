@@ -9,7 +9,7 @@ categories:
 - concurrency
 - Thread Programming
 - thread
-  tags:
+tags:
 - java
 - coding
 - Thread
