@@ -18,7 +18,7 @@ tags:
 ---
 This article was first published in [Foojay.io](https://foojay.io/today/java-thread-programming-part-2/)
 
-In [our earlier article](https://bazlur.com/2021/10/java-thread-programming-part-1/), we explained the background to threading and how to create and start a thread.
+In [our earlier article](https://bazlur.ca/java-thread-progamming/part-1/), we explained the background to threading and how to create and start a thread.
 
 In this article, let's see an example where we can use Threads to our benefit.
 

@@ -18,7 +18,7 @@ tags:
 ---
 This article was first published in [Foojay.io](https://foojay.io/today/java-thread-programming-part-5/)
 
-In [our previous article](https://bazlur.com/2021/10/java-thread-programming-part-4/), we discussed the "data race" concept and how we can solve it using volatile keywords. However, this is not the only problem we face when dealing with code that runs in multi-threaded environments. In this article, we will discuss another situation called "race conditions" and how we can resolve it.
+In [our previous article](https://bazlur.ca/java-thread-progamming/part-4/), we discussed the "data race" concept and how we can solve it using volatile keywords. However, this is not the only problem we face when dealing with code that runs in multi-threaded environments. In this article, we will discuss another situation called "race conditions" and how we can resolve it.
 
 By now, we know that threads share memory space, so that multiple threads can read from and write to the same variable. Although this ability gives us faster access to memory, it has the unpleasant side effect of the phenomenon called "race condition", which creates data inconsistency in the program. To understand the problem, let’s see an example. In the following code, we will try to simulate a bank account. We will keep debiting and crediting the same amount from two different threads from an account. The idea is, if we debit and credit the same amount multiple times, the net result should remain the same.
 

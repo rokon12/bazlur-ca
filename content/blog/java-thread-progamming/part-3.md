@@ -18,7 +18,7 @@ tags:
 ---
 This article was first published in [Foojay.io](https://foojay.io/today/java-thread-programming-part-3/)
 
-Continuing [from part 2](https://bazlur.com/2021/10/java-thread-programming-part-2/), let’s start this article with a bit of context first (_and if you don’t like reading text, you can skip this introduction, and go directly to the section below where I discuss pieces of code_).
+Continuing [from part 2](https://bazlur.ca/java-thread-progamming/part-2/), let’s start this article with a bit of context first (_and if you don’t like reading text, you can skip this introduction, and go directly to the section below where I discuss pieces of code_).
 
 Context
 -------

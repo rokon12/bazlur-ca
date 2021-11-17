@@ -18,7 +18,7 @@ tags:
 ---
 This article was first published in [Foojay.io](https://foojay.io/today/java-thread-programming-part-4/)
 
-In [the previous article](https://bazlur.com/2021/10/java-thread-programming-part-3/), we discussed the visibility problem while working with multiple threads.
+In [the previous article](https://bazlur.ca/java-thread-progamming/part-3/), we discussed the visibility problem while working with multiple threads.
 
 We will discuss another similar situation in this article. However, we will use symbols and pseudocode to explain this.
 
